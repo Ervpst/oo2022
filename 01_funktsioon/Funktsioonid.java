@@ -15,6 +15,7 @@ public class Funktsioonid {
         double punktid = scanner.nextDouble();
         System.out.println(punktidMatemaatikas(punktid));
 
+        //lugemine massiivist
         Scanner koht = new Scanner(System.in);
         System.out.println("Sügis, Talv, Kevad, Suvi:");
         System.out.println("Sisesta mitmendat aastaaega soovid:");
