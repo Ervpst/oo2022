@@ -1,22 +1,16 @@
-// parem klõps -> new Java class -> main
-// main --> enter
-
 public class Main {
     public static void main(String[] args) {
-        Human one = new Human("Mihkel",99,2.22,true);
-        Human two = new Human("AWHDB",3123,313.22,true);
+        Car one = new Car("BMW", "must", 1997, 254233, 4000);
+        Car two = new Car("Lada", "Oranž", 1970, 820301, 1000000);
 
         System.out.println(one);
         System.out.println(two);
 
-        one.sayHello();
-        two.sayHello();
+        System.out.println("Sisesta oma raha summa: ");
 
-        // main meetod 1 class
-        // uus klass, kus on vähemalt 2 muutujat
-        //                  vähmalt 1 funktsioon
-        //              toString() funktsioon
-        // main meetodis on seda vähemalt 2 korda välja kutsutud
-        //          funktsiooni välja kutsutud
+        one.autoOst();
+        two.autoOst();
+
+
     }
 }
