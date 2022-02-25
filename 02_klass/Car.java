@@ -15,12 +15,13 @@ public class Car {
         this.läbisõit = läbisõit;
         this.hind = hind;
     }
-    Scanner scanner = new Scanner(System.in);
-    int raha = scanner.nextInt();
+
 
 
     public void autoOst() {
-        System.out.println("Sulle jääb alles peale ostu" + (raha -  hind) + " eurot" );
+        Scanner scanner = new Scanner(System.in);
+        int raha = scanner.nextInt();
+        System.out.println("Sulle jääb alles peale ostu " + (raha -  hind) + " eurot" );
     }
 
     @Override
