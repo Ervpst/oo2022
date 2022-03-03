@@ -3,6 +3,7 @@ public class Main {
 
         Data data = new Data("Lada", "Oranž", 1970, 820301, 10000);
         Car car = new Car(data,2500, 30);
+        
 
         System.out.println("Sisesta oma raha kogus: ");
 

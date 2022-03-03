@@ -14,6 +14,7 @@ public class Data {
         this.väljalase = väljalase;
         this.läbisõit = läbisõit;
         this.hind = hind;
+
     }
 
     public void autoOst() {

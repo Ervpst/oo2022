@@ -7,6 +7,7 @@ public class Car {
         this.data = data;
         this.kaal = kaal;
         this.ratas = ratas;
+
     }
 
     public String getInfo() {
