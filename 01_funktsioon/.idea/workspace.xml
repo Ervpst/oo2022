@@ -2,8 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbad8fd3-8081-4310-a000-d566161990d9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../05_kontrolltoo1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05_kontrolltoo1/.idea/05_kontrolltoo1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05_kontrolltoo1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05_kontrolltoo1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05_kontrolltoo1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05_kontrolltoo1/Algarvud.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05_kontrolltoo1/out/production/05_kontrolltoo1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05_kontrolltoo1/out/production/05_kontrolltoo1/.idea/05_kontrolltoo1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05_kontrolltoo1/out/production/05_kontrolltoo1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05_kontrolltoo1/out/production/05_kontrolltoo1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05_kontrolltoo1/out/production/05_kontrolltoo1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05_kontrolltoo1/out/production/05_kontrolltoo1/kirjeldus.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Funktsioonid.java" beforeDir="false" afterPath="$PROJECT_DIR$/Funktsioonid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_klassikomplekt/Game2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../03_klassikomplekt/Game2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_klassikomplekt/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../03_klassikomplekt/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_klassikomplekt/out/production/03_klassikomplekt/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/../03_klassikomplekt/out/production/03_klassikomplekt/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_klassikomplekt/out/production/03_klassikomplekt/Data.class" beforeDir="false" afterPath="$PROJECT_DIR$/../03_klassikomplekt/out/production/03_klassikomplekt/Data.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_klassikomplekt/out/production/03_klassikomplekt/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../03_klassikomplekt/out/production/03_klassikomplekt/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_proovikontrolltoo1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../04_proovikontrolltoo1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_proovikontrolltoo1/valjund1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../04_proovikontrolltoo1/valjund1.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +51,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../02_klass" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager" selected="Application.Funktsioonid">
     <configuration name="Funktsioonid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -69,6 +87,7 @@
       <workItem from="1645121996669" duration="95000" />
       <workItem from="1645123042604" duration="10918000" />
       <workItem from="1645180183655" duration="2404000" />
+      <workItem from="1646996849225" duration="540000" />
     </task>
     <servers />
   </component>
