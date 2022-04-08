@@ -18,8 +18,10 @@ public class Car implements CarObject {
     public void autoOst() {
         Scanner scanner = new Scanner(System.in);
         int raha = scanner.nextInt();
-        System.out.println("Sulle jääb alles peale ostu " + (raha - hind) + " eurot");
+        int allesraha = raha - hind;
+        System.out.println("Sulle jääb alles peale ostu " + allesraha + " eurot");
     }
+
 
 
     @Override
@@ -55,7 +57,7 @@ public class Car implements CarObject {
     public String õigeMark() {
         String nimi;
         if (mark == "Lada") nimi = "Auto mark on Lada.";
-        else nimi = "Auto mark ei ole Lada.";
+        else nimi = "Auto mark ei ole Lada, vaid " + mark + ".";
         return nimi;
     }
 
