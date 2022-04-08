@@ -5,7 +5,11 @@ public class Main {
 
         System.out.println("Auto mark on " + car.getmark() + " ja auto on " + car.getvärv() + " värvi.");
         System.out.println("Auto lasti välja " + car.getväljalase() + "aastal ja auto maksab " + car.gethind() + " eurot.");
-        
+
+        System.out.println(car.mootoriVahetus());
+        System.out.println(car.aastadMoodas());
+        System.out.println(car.õigeMark());
+
         System.out.println("Sisesta oma raha kogus: ");
 
         car.autoOst();

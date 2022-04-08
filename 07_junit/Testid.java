@@ -6,18 +6,18 @@ public class Testid {
     @Test
     public void Kontrolli_kas_auto_mootorit_on_vaja_vahetada() {
         Car Car = new Car("Lada", "Oranž", 1970, 10000, 2000001);
-        assertEquals(true, Car.mootoriVahetus());
+        assertEquals("Autol on vaja mootori vahetust.", Car.mootoriVahetus());
     }
 
     @Test
     public void Kontrolli_kas_auto_mark_on_ikka_Lada() {
         Car Car = new Car("Lada", "Oranž", 1970, 10000, 2000001);
-        assertEquals(true, Car.õigeMark());
+        assertEquals("Auto mark on Lada.", Car.õigeMark());
     }
     @Test
-    public void Kontrolli_kas_auto_väljalaskmisest_on_moodas_rohkem_kui_40_aastat() {
+    public void Kontrolli_kas_auto_väljalaskmisest_on_moodas_40_aastat() {
         Car Car = new Car("Lada", "Oranž", 1970, 10000, 2000001);
-        assertEquals(true, Car.aastadMoodas());
+        assertEquals("Väljalaskmisest on möödas 40 aastat.", Car.aastadMoodas());
     }
 
 

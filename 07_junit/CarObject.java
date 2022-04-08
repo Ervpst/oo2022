@@ -4,7 +4,7 @@ public interface CarObject {
     int getväljalase();
     int gethind();
 
-    boolean mootoriVahetus();
-    boolean õigeMark();
-    boolean aastadMoodas();
+    String mootoriVahetus();
+    String õigeMark();
+    String aastadMoodas();
 }
